@@ -1,0 +1,41 @@
+.home-section-contant {
+    background-color: #FFFCE8;
+}
+
+.home-section-text {
+    padding: 25px;
+}
+
+.add-section {
+    background-color: #0574BB;
+    padding: 90px;
+    height: 450px;
+    width: auto;
+}
+
+/* .home-section-second {
+    background-color: ;
+} */
+
+.advertisment-section {
+    background-color: #0574BB;
+    /* height: 400px;
+    width: auto; */
+    padding: 15px;
+}
+
+.total-student {
+    background-color: #0574BB;
+}
+
+.total-user {
+    background-color: #F9D609;
+}
+
+.total-content {
+    background-color: #0574BB;
+}
+
+.total-study {
+    background-color: #F9D609;
+}
